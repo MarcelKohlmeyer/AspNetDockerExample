@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eO5ZWQx9h/YeebGMbhK2Aci2WM8C6w/YspnfzlSdiv9b94m3FqWwPSK77gIZhyvVQdwxHU0jXI6TdJZue0tTDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MarcelK\\source\\repos\\AspNetDockerExample\\AspNetDockerExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MarcelK\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
